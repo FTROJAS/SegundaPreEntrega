@@ -1,0 +1,153 @@
+* {
+    margin: 0
+    padding 0
+    ;
+}
+
+/* Body */
+
+body {
+
+    background-color: rgb(226, 140, 140) ;
+}
+
+/* Haeder*/
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-align: none;
+}
+
+header {
+    border-bottom: 1px solid black;
+    text-align: center;
+    padding: 10px 20px;
+
+}
+
+.logo {
+width: 150px;
+
+
+
+}
+
+nav ul li {
+    text-align: right;
+    display: inline-block;
+    margin: 0 10px;
+
+}
+
+a {
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: black;
+}
+
+.muzzarella {
+    display: block;
+    width: 100%;
+    height: auto;
+
+
+}
+
+.Calabresa {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.especial{
+    display: block;
+    width: 100%;
+    height: auto;
+    
+
+    
+}
+
+footer {
+    margin: 20px;
+    padding: 20px;
+    border-top: 1px solid black;
+    text-align-last: center;
+
+}
+
+.video {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-top: 10%;
+    padding-left: 25%;
+    padding-right: 5%;
+    padding-bottom: 10%;
+}
+
+.alejandroKorn {
+    display: block;
+    width: 100%;
+    height:max-content;
+}
+
+.sanVicente {
+    display: block;
+    width: 100%;
+    height: auto;
+
+}
+ h2 {
+    text-align: center;
+ }
+
+ h3 {
+    text-align: center;
+ }
+
+ form {
+    margin-top: 20px;
+    
+ }
+ 
+ label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: darkslategrey;
+}
+
+input,
+textarea {
+    display: block;
+    width: 15%;
+    padding: 10px;
+    border: 2px solid;
+    
+}
+
+.mensaje {
+    display: block;
+    width: 25%;
+    height: 20%;
+    padding: 10px;
+    border: 2px solid;
+}
+
+.formulario {
+    background-color: rgb(253, 251, 251);
+    color: rgb(8, 8, 8);
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 12px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+p {
+    text-align: center;
+    text-decoration: solid color(srgb red green blue);
+}
